@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+    <body>
+<h1>Staring_girl</h1>
+
+<div class="full-img">
+  <img class="displayed-img" src="https://pixabay.com/images/id-529067/">
+  <div class="full-img"></div>
+  <button class="displayed-img">click</button>
+</div>
+<div class="thumb-bar">
+
+</div>
+    </body>
+</html>
